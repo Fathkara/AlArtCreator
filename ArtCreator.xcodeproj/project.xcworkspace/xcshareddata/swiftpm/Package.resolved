@@ -1,0 +1,113 @@
+{
+  "pins" : [
+    {
+      "identity" : "bettercodable",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/marksands/BetterCodable.git",
+      "state" : {
+        "revision" : "61153170668db7a46a20a87e35e70f80b24d4eb5",
+        "version" : "0.4.0"
+      }
+    },
+    {
+      "identity" : "hero",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/HeroTransitions/Hero.git",
+      "state" : {
+        "revision" : "66a554b21116fccf61b3aa2205a86f6b0cdc9766",
+        "version" : "1.6.2"
+      }
+    },
+    {
+      "identity" : "kingfisher",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/onevcat/Kingfisher.git",
+      "state" : {
+        "revision" : "44e891bdb61426a95e31492a67c7c0dfad1f87c5",
+        "version" : "7.4.1"
+      }
+    },
+    {
+      "identity" : "layoutless",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/DeclarativeHub/Layoutless.git",
+      "state" : {
+        "revision" : "50ae5ab4cb9bf676c1901f4ba0f267f27e68d0a7",
+        "version" : "0.4.3"
+      }
+    },
+    {
+      "identity" : "lottie-ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/airbnb/lottie-ios",
+      "state" : {
+        "branch" : "master",
+        "revision" : "51329d238e32dd492d19370e9a5da087987fec70"
+      }
+    },
+    {
+      "identity" : "quicklayout",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/huri000/QuickLayout",
+      "state" : {
+        "revision" : "6be62decbe508d8fc8f9dbafc349d05bab03c38b",
+        "version" : "3.0.1"
+      }
+    },
+    {
+      "identity" : "rskplaceholdertextview",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ruslanskorb/RSKPlaceholderTextView.git",
+      "state" : {
+        "revision" : "941b263de5344c03b89c46c30e85ad48b0da24a1",
+        "version" : "6.1.0"
+      }
+    },
+    {
+      "identity" : "signals",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/artman/Signals.git",
+      "state" : {
+        "revision" : "e792eb51a64f85d043d17f09f6323b803b9f73b8",
+        "version" : "6.1.0"
+      }
+    },
+    {
+      "identity" : "snapkit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SnapKit/SnapKit.git",
+      "state" : {
+        "branch" : "develop",
+        "revision" : "58320fe80522414bf3a7e24c88123581dc586752"
+      }
+    },
+    {
+      "identity" : "sparkui",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/rebeloper/SparkUI.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "60867865c81a4686b7cc9eda9317a58064ec50b7"
+      }
+    },
+    {
+      "identity" : "swiftentrykit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/huri000/SwiftEntryKit.git",
+      "state" : {
+        "revision" : "c2d42574e4fe4e1f9719843f35add7922942a16b",
+        "version" : "1.2.7"
+      }
+    },
+    {
+      "identity" : "uifontcomplete",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Nirma/UIFontComplete.git",
+      "state" : {
+        "revision" : "28959719e8078c3a9cc359cb85589016b57f1fd4",
+        "version" : "4.0.1"
+      }
+    }
+  ],
+  "version" : 2
+}
