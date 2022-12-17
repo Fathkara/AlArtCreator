@@ -15,7 +15,7 @@ class APICaller {
     func getImageFromAPI(creation: Creation, completion: @escaping (_ resultImage: UIImage?) -> Void) {
         let headers = [
           "content-type": "application/x-www-form-urlencoded",
-          "X-RapidAPI-Key": "46a39ac5cbmsh8f0f83a06fb51cdp1d1eeejsn891bcecf89da",
+          "X-RapidAPI-Key": "46a39ac5cbmsh8f0f83a06fb51",
           "X-RapidAPI-Host": "dezgo.p.rapidapi.com"
         ]
         let postData = NSMutableData(data: "prompt=\(creation.prompt), \(creation.style), highly-detailed masterpiece trending HQ".data(using: String.Encoding.utf8)!)
