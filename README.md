@@ -25,5 +25,6 @@ Uygulama programmatic ui ile geliştirildi.
 ![ss1](https://user-images.githubusercontent.com/107872054/208296102-f7d38211-e926-489a-896b-d7a47e761603.png)
 
 
+![SS1](https://user-images.githubusercontent.com/107872054/208296387-17a9f6e0-aa4f-4b04-9d5e-bd9c031c6674.png)
 
 
