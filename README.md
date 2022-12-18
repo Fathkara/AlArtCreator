@@ -28,10 +28,13 @@ Uygulama programmatic ui ile geliştirildi.
 ![Simulator Screen Shot - iPhone 13 Pro Max - 2022-12-18 at 14 32 37](https://user-images.githubusercontent.com/107872054/208296509-587d6dc9-7b8a-470b-a4da-fe7ebe77d94e.png)
 
 ![Simulator Screen Shot - iPhone 13 Pro Max - 2022-12-18 at 14 32 40](https://user-images.githubusercontent.com/107872054/208296513-6236b121-95ac-49f1-846a-74a1927138f0.png)
+
 ![Simulator Screen Shot - iPhone 13 Pro Max - 2022-12-18 at 14 32 48](https://user-images.githubusercontent.com/107872054/208296514-4b890e74-63f5-4db3-82ae-3a4386de2c31.png)
 
 ![Simulator Screen Shot - iPhone 13 Pro Max - 2022-12-18 at 14 32 56](https://user-images.![Simulator Screen Shot - iPhone 13 Pro Max - 2022-12-18 at 14 32 59](https://user-images.githubusercontent.com/107872054/208296528-add1bd5c-fcfa-4fb0-bce0-3ca183c618d7.png)
-githubusercontent.com/107872054/208296520-edd49b43-d4cc-4fbc-b632-e7f6f29ab135.png)
+
+
 
 ![Simulator Screen Shot - iPhone 13 Pro Max - 2022-12-18 at 14 33 07](https://user-images.githubusercontent.com/107872054/208296536-06868f37-20c4-400f-94f3-2298cf4cda4e.png)
+
 ![Simulator Screen Shot - iPhone 13 Pro Max - 2022-12-18 at 14 33 13](https://user-images.githubusercontent.com/107872054/208296547-0d43648e-135b-4654-88a5-be392074f173.png)
