@@ -32,3 +32,8 @@ Uygulama programmatic ui ile geliştirildi.
 ![SS7](https://user-images.githubusercontent.com/107872054/208296547-0d43648e-135b-4654-88a5-be392074f173.png)
 
 ### Ekran Kaydı
+
+
+
+https://user-images.githubusercontent.com/107872054/208297002-d02274e6-680d-4e72-bfa1-34b3ce815cb8.mp4
+
